@@ -39,21 +39,21 @@
 
 
                 <div class="logo">
-                    <a href="https://pcbuilder.net/">
-                        <img class="ml-auto mx-lg-0 lazy"
-                            data-src="https://static.pcbuilder.net/assets/images/logo-80.png" alt="PC Builder">
+                    <a href="?page=home">
+                        <img class="ml-auto mx-lg-0 lazy" src="assets/images/logo-80.png" alt="PC Builder">
                         <p class="mr-auto mx-lg-0"><span>PC</span> Builder<sup><small class="pl-1">®</small></sup>
                         </p>
                     </a>
                 </div>
 
 
-                <p>PC Builder is a tool that makes PC building easier than ever. You can choose from a range of
-                    components and check the compatibility with your system to build your perfect PC.
+                <p>
+                    PC Builder, PC qurmağı həmişəkindən daha asan edən bir vasitədir. Siz mükəmməl kompüterinizi qurmaq
+                    üçün bir sıra komponentlər arasından seçim edə və sisteminizlə uyğunluğu yoxlaya bilərsiniz.
                 </p>
                 <p>
-                    To simplify the selection and management of PC parts, we provide a platform that simplifies the
-                    process and provides you with the best possible setup for your computer.</p>
+                    PC hissələrinin seçilməsini və idarə olunmasını sadələşdirmək üçün biz prosesi asanlaşdıran və sizə
+                    kompüteriniz üçün mümkün olan ən yaxşı quraşdırmanı təmin edən platforma təqdim edirik.</p>
 
             </div>
             <!-- Grid column -->
@@ -176,7 +176,6 @@
     </div>
     <!-- Copyright -->
 
-
     <style>
         .accept-cookie {
             z-index: 99999;
@@ -193,15 +192,4 @@
             }
         }
     </style>
-    <!--
-<div class="fixed-bottom accept-cookie">
-<div class="d-flex align-items-center justify-content-between m-2 mr-md-5">
-<p class="py-0 m-auto">
-  This website uses cookies to improve the user experience. To learn more about cookie policy, please check our <a class="ease-out underline text-white text-grey-light" target="_blank"
-    rel="noopener noreferrer" href="/privacy-policy/"><font color="#18AE91">privacy</font></a> page.
-</p>
-<button onclick="gdpr('yes');" type="button" class="btn btn-md float-md-right bg-white px-md-4"><strong>Accept</strong></button>
-</div>
-</div>
--->
 </footer>

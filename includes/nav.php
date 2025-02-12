@@ -2,8 +2,8 @@
 
     <header>
         <div class="logo">
-            <a href="https://pcbuilder.net/">
-                <img src="https://static.pcbuilder.net/assets/images/logo-80.png" alt="PC Builder" height="80"
+            <a href="?page=home">
+                <img src="assets/images/logo-80.png" alt="PC Builder" height="80"
                     width="80">
                 <p class="hide-mobile"><span>PC</span> Builder<sup><small class="pl-1">®</small></sup></p>
             </a>
@@ -20,13 +20,13 @@
             </div>
 
             <div class="pc">
-                <i class="fa fa-user-circle"></i><span>Welcome<div><a href="https://pcbuilder.net/auth/login/">Sign
+                <i class="fa fa-user-circle"></i><span>Welcome<div><a href="?page=login">Sign
                             In / Register</a></div></span>
             </div>
         </div>
 
-        <div class="d-none d-lg-flex cart"><a href="https://pcbuilder.net/list/cart"><img class=""
-                    src="https://static.pcbuilder.net/assets/images/icons/cart.svg" height="32" width="32"></a>
+        <div class="d-none d-lg-flex cart"><a href="?page=cart"><img class=""
+                    src="assets/images/icons/cart.svg" height="32" width="32"></a>
             <div><span>Cart</span></div>
         </div>
         <div class="d-none d-lg-flex mode">
@@ -35,7 +35,6 @@
                 <span class="slider round"></span>
             </label>
         </div>
-
 
         <button class="navbar-toggler menu" type="button">
             <svg width="60" height="60" viewBox="0 0 100 100">
@@ -50,27 +49,25 @@
         </button>
     </header>
 
-
-
     <div id="my-nav" class="collapse navbar-collapse">
         <ul itemscope itemtype="http://schema.org/SiteNavigationElement" class="navbar-nav mr-auto">
             <li itemprop="name" class="nav-item ">
-                <a itemprop="url" class="nav-link" href="https://pcbuilder.net/list/"><i class="fa fa-tools"></i>
+                <a itemprop="url" class="nav-link" href="?page=list"><i class="fa fa-tools"></i>
                     System Builder </a>
             </li>
             <li itemprop="name" class="nav-item ">
-                <a itemprop="url" class="nav-link" href="https://pcbuilder.net/builts/"><i class="fa fa-server"></i>
+                <a itemprop="url" class="nav-link" href="?page=builts"><i class="fa fa-server"></i>
                     Pre-Build PC</a>
             </li>
             <li itemprop="name" class="nav-item ">
-                <a itemprop="url" class="nav-link" href="https://pcbuilder.net/laptop/"><i class="fa fa-laptop"></i>
+                <a itemprop="url" class="nav-link" href="?page=laptop"><i class="fa fa-laptop"></i>
                     Laptops</a>
             </li>
 
             <li class="nav-item dropdown megamenu-li ">
                 <a class="nav-link dropdown-toggle d-none d-lg-block" href="#" id="navbarDropdownMenuLink2"
                     role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img class=""
-                        src="https://static.pcbuilder.net/assets/images/icons/cpu.svg" height="24" width="24">
+                        src="assets/images/icons/cpu.svg" height="24" width="24">
                     Browse Products</a>
 
                 <div class="dropdown-menu megamenu" aria-labelledby="navbarDropdownMenuLink2">
@@ -81,7 +78,7 @@
                                 <div itemprop="name" class="col-6 col-sm-4 col-md-3 col-lg-3 pcb-components">
                                     <a itemprop="url" href="https://pcbuilder.net/product/storage/">
                                         <div class="box">
-                                            <img data-src="https://static.pcbuilder.net/assets/images/megamenu/storage.png"
+                                            <img data-src="assets/images/megamenu/storage.png"
                                                 class="img-fluid mx-auto d-block mega-image lazy"
                                                 alt="storage, pc builder, pc part picker, build my pc">
                                             <p>Storage </p>
@@ -92,7 +89,7 @@
                                 <div itemprop="name" class="col-6 col-sm-4 col-md-3 col-lg-3 pcb-components">
                                     <a itemprop="url" href="https://pcbuilder.net/product/graphics-card/">
                                         <div class="box">
-                                            <img data-src="https://static.pcbuilder.net/assets/images/megamenu/graphics-card.png"
+                                            <img data-src="assets/images/megamenu/graphics-card.png"
                                                 class="img-fluid mx-auto d-block mega-image lazy"
                                                 alt="graphics card, video card, pc builder, pc part picker, build my pc">
                                             <p>Graphics Card </p>
@@ -104,7 +101,7 @@
                                 <div itemprop="name" class="col-6 col-sm-4 col-md-3 col-lg-3 pcb-components">
                                     <a itemprop="url" href="https://pcbuilder.net/product/power-supply/">
                                         <div class="box">
-                                            <img data-src="https://static.pcbuilder.net/assets/images/megamenu/power-supply.png"
+                                            <img data-src="assets/images/megamenu/power-supply.png"
                                                 class="img-fluid mx-auto d-block mega-image lazy"
                                                 alt="power supply, psu, pc builder, pc part picker, build my pc">
                                             <p>Power Supply</p>
@@ -115,7 +112,7 @@
                                 <div itemprop="name" class="col-6 col-sm-4 col-md-3 col-lg-3 pcb-components">
                                     <a itemprop="url" href="https://pcbuilder.net/product/case/">
                                         <div class="box">
-                                            <img data-src="https://static.pcbuilder.net/assets/images/megamenu/case.png"
+                                            <img data-src="assets/images/megamenu/case.png"
                                                 class="img-fluid mx-auto d-block mega-image lazy"
                                                 alt="case, cabinet, pc builder, pc part picker, build my pc">
                                             <p>Case</p>
@@ -126,7 +123,7 @@
                                 <div itemprop="name" class="col-6 col-sm-4 col-md-3 col-lg-3 pcb-components">
                                     <a itemprop="url" href="https://pcbuilder.net/product/processor/">
                                         <div class="box">
-                                            <img data-src="https://static.pcbuilder.net/assets/images/mega-menu/nav-processor.png"
+                                            <img data-src="assets/images/mega-menu/nav-processor.png"
                                                 class="img-fluid mx-auto d-block mega-image lazy"
                                                 alt="cpu, processor, pc builder, pc part picker, build my pc">
                                             <p>CPU</p>
@@ -137,7 +134,7 @@
                                 <div itemprop="name" class="col-6 col-sm-4 col-md-3 col-lg-3 pcb-components">
                                     <a itemprop="url" href="https://pcbuilder.net/product/cpu-cooler/">
                                         <div class="box">
-                                            <img data-src="https://static.pcbuilder.net/assets/images/megamenu/cpu-cooler.png"
+                                            <img data-src="assets/images/megamenu/cpu-cooler.png"
                                                 class="img-fluid mx-auto d-block mega-image lazy"
                                                 alt="cpu cooler, pc builder, pc part picker, build my pc">
                                             <p>CPU Cooler</p>
@@ -148,7 +145,7 @@
                                 <div itemprop="name" class="col-6 col-md-3 col-lg-3 pcb-components">
                                     <a itemprop="url" href="https://pcbuilder.net/product/motherboard/">
                                         <div class="box">
-                                            <img data-src="https://static.pcbuilder.net/assets/images/megamenu/motherboard.png"
+                                            <img data-src="assets/images/megamenu/motherboard.png"
                                                 class="img-fluid mx-auto d-block mega-image lazy"
                                                 alt="motherboard, pc builder, pc part picker, build my pc">
                                             <p>Motherboard</p>
@@ -159,7 +156,7 @@
                                 <div itemprop="name" class="col-6 col-md-3 col-lg-3 pcb-components">
                                     <a itemprop="url" href="https://pcbuilder.net/product/ram/">
                                         <div class="box">
-                                            <img data-src="https://static.pcbuilder.net/assets/images/megamenu/memory.png"
+                                            <img data-src="assets/images/megamenu/memory.png"
                                                 class="img-fluid mx-auto d-block mega-image lazy"
                                                 alt="memory, ram, pc builder, pc part picker, build my pc">
                                             <p>Memory</p>
@@ -298,45 +295,43 @@
                 <li class="image-li dropdown pcb-country">
                     <a class="country dropdown-toggle" id="navbarDropdownMenuLink2" role="button" data-toggle="dropdown"
                         aria-haspopup="true" aria-expanded="false"><img class="img-fluid change-country"
-                            src="https://static.pcbuilder.net/assets/images/flags/us.svg"
+                            src="assets/images/flags/us.svg"
                             alt="pc builder, pc part picker, build my pc"></a>
-
-
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink2">
                         <a class="dropdown-item"
                             onclick="if (!window.__cfRLUnblockHandlers) return false; changecountry('US');"
                             data-cf-modified-e0851343d4cacafcae6327e0-=""><img class="img-fluid dropdown-image lazy"
-                                data-src="https://static.pcbuilder.net/assets/images/flags/us.svg"
+                                data-src="assets/images/flags/us.svg"
                                 alt="pc builder us, pcbuilder us">United States</a>
                         <a class="dropdown-item"
                             onclick="if (!window.__cfRLUnblockHandlers) return false; changecountry('GB');"
                             data-cf-modified-e0851343d4cacafcae6327e0-=""><img class="img-fluid dropdown-image lazy"
-                                data-src="https://static.pcbuilder.net/assets/images/flags/gb.svg"
+                                data-src="assets/images/flags/gb.svg"
                                 alt="pc builder uk, pcbuilder uk">United Kingdom</a>
                         <a class="dropdown-item"
                             onclick="if (!window.__cfRLUnblockHandlers) return false; changecountry('ES');"
                             data-cf-modified-e0851343d4cacafcae6327e0-=""><img class="img-fluid dropdown-image lazy"
-                                data-src="https://static.pcbuilder.net/assets/images/flags/es.svg"
+                                data-src="assets/images/flags/es.svg"
                                 alt="pc builder es, pcbuilder es">Spain</a>
                         <a class="dropdown-item"
                             onclick="if (!window.__cfRLUnblockHandlers) return false; changecountry('CA');"
                             data-cf-modified-e0851343d4cacafcae6327e0-=""><img class="img-fluid dropdown-image lazy"
-                                data-src="https://static.pcbuilder.net/assets/images/flags/ca.svg"
+                                data-src="assets/images/flags/ca.svg"
                                 alt="pc builder ca, pcbuilder ca">Canada</a>
                         <a class="dropdown-item"
                             onclick="if (!window.__cfRLUnblockHandlers) return false; changecountry('IN');"
                             data-cf-modified-e0851343d4cacafcae6327e0-=""><img class="img-fluid dropdown-image lazy"
-                                data-src="https://static.pcbuilder.net/assets/images/flags/in.svg"
+                                data-src="assets/images/flags/in.svg"
                                 alt="pc builder in, pcbuilder in">India</a>
                         <a class="dropdown-item"
                             onclick="if (!window.__cfRLUnblockHandlers) return false; changecountry('AU');"
                             data-cf-modified-e0851343d4cacafcae6327e0-=""><img class="img-fluid dropdown-image lazy"
-                                data-src="https://static.pcbuilder.net/assets/images/flags/au.svg"
+                                data-src="assets/images/flags/au.svg"
                                 alt="pc builder au, pcbuilder au">Australia</a>
                         <a class="dropdown-item"
                             onclick="if (!window.__cfRLUnblockHandlers) return false; changecountry('IT');"
                             data-cf-modified-e0851343d4cacafcae6327e0-=""><img class="img-fluid dropdown-image lazy"
-                                data-src="https://static.pcbuilder.net/assets/images/flags/it.svg"
+                                data-src="assets/images/flags/it.svg"
                                 alt="pc builder it, pcbuilder it">Italy</a>
                     </div>
                 </li>
@@ -346,8 +341,8 @@
 
     <div id="my-profile" class="collapse navbar-collapse">
         <div class="mega-profile">
-            <a class="dropdown-item" href="/auth/login/">Login</a>
-            <a class="dropdown-item" href="/auth/register/">Sign up</a>
+            <a class="dropdown-item" href="?page=login">Login</a>
+            <a class="dropdown-item" href="?page=register">Sign up</a>
             <a class="dropdown-item d-none" href="#">Forum</a>
             <a class="dropdown-item d-none" href="#">Blog</a>
         </div>

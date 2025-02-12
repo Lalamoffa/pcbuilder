@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -14,13 +15,13 @@
     <link rel="canonical" href="https://pcbuilder.net/" />
     <meta property="og:title" content="PC Builder - Build Your Custom PC Online">
     <meta property="og:url" content="https://pcbuilder.net/">
-    <meta property="og:image" content="https://static.pcbuilder.net/assets/images/og/visit-pc-builder.png">
+    <meta property="og:image" content="assets/images/og/visit-pc-builder.png">
     <meta property="og:description"
         content="Building your PC compatibility was never so easy before - but with the use of PC Builder, just pick the desired PC parts from the list of latest components, and you're ready to turn your imagination into reality. You can use the PC building simulator offered by us to create your own PC virtually and even analyze the compatible pc parts before buying them, and its really easy by simply picking up the pc parts. We at PC Builder also help you to restrain your stress of getting into the complex structure and finding compatibility of the parts. And get assured before purchasing your custom PC with the PC Builder.">
     <meta name="twitter:title" content="PC Builder - Build Your Custom PC Online">
     <meta name="twitter:description"
         content="Building your PC compatibility was never so easy before - but with the use of PC Builder, just pick the desired PC parts from the list of latest components, and you're ready to turn your imagination into reality. You can use the PC building simulator offered by us to create your own PC virtually and even analyze the compatible pc parts before buying them, and its really easy by simply picking up the pc parts. We at PC Builder also help you to restrain your stress of getting into the complex structure and finding compatibility of the parts. And get assured before purchasing your custom PC with the PC Builder.">
-    <link rel="preload" as="image" href="https://static.pcbuilder.net/assets/images/banner/bg-banner.png" />
+    <link rel="preload" as="image" href="assets/images/banner/bg-banner.png" />
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
 
     <!-- dns Pre-Fetch -->
@@ -29,8 +30,8 @@
     <meta property="og:locale" content="en_US">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="PC Builder">
-    <meta property="og:image" content="https://static.pcbuilder.net/assets/images/banner/bg-banner.png">
-    <meta property="og:image:secure_url" content="https://static.pcbuilder.net/assets/images/banner/bg-banner.png">
+    <meta property="og:image" content="assets/images/banner/bg-banner.png">
+    <meta property="og:image:secure_url" content="assets/images/banner/bg-banner.png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="627">
     <meta name="author" content="Sunny Bundel" />
@@ -39,67 +40,68 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@pcbuilder_net" />
     <meta name="twitter:creator" content="@sunnybundel">
-    <meta name="twitter:image" content="https://static.pcbuilder.net/assets/images/banner/bg-banner.png">
+    <meta name="twitter:image" content="assets/images/banner/bg-banner.png">
     <meta property="fb:app_id" content="361771148502558">
 
     <!--  Favicons / Title Bar Icon  -->
     <link rel="apple-touch-icon" sizes="57x57"
-        href="https://static.pcbuilder.net/assets/images/favicon/apple-icon-57x57.png">
+        href="assets/images/favicon/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60"
-        href="https://static.pcbuilder.net/assets/images/favicon/apple-icon-60x60.png">
+        href="assets/images/favicon/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72"
-        href="https://static.pcbuilder.net/assets/images/favicon/apple-icon-72x72.png">
+        href="assets/images/favicon/apple-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="76x76"
-        href="https://static.pcbuilder.net/assets/images/favicon/apple-icon-76x76.png">
+        href="assets/images/favicon/apple-icon-76x76.png">
     <link rel="apple-touch-icon" sizes="114x114"
-        href="https://static.pcbuilder.net/assets/images/favicon/apple-icon-114x114.png">
+        href="assets/images/favicon/apple-icon-114x114.png">
     <link rel="apple-touch-icon" sizes="120x120"
-        href="https://static.pcbuilder.net/assets/images/favicon/apple-icon-120x120.png">
+        href="assets/images/favicon/apple-icon-120x120.png">
     <link rel="apple-touch-icon" sizes="144x144"
-        href="https://static.pcbuilder.net/assets/images/favicon/apple-icon-144x144.png">
+        href="assets/images/favicon/apple-icon-144x144.png">
     <link rel="apple-touch-icon" sizes="152x152"
-        href="https://static.pcbuilder.net/assets/images/favicon/apple-icon-152x152.png">
+        href="assets/images/favicon/apple-icon-152x152.png">
     <link rel="apple-touch-icon" sizes="180x180"
-        href="https://static.pcbuilder.net/assets/images/favicon/apple-icon-180x180.png">
+        href="assets/images/favicon/apple-icon-180x180.png">
     <link rel="icon" type="image/png" sizes="192x192"
-        href="https://static.pcbuilder.net/assets/images/favicon/android-icon-192x192.png">
+        href="assets/images/favicon/android-icon-192x192.png">
     <link rel="icon" type="image/png" sizes="32x32"
-        href="https://static.pcbuilder.net/assets/images/favicon/favicon-32x32.png">
+        href="assets/images/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="96x96"
-        href="https://static.pcbuilder.net/assets/images/favicon/favicon-96x96.png">
+        href="assets/images/favicon/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16"
-        href="https://static.pcbuilder.net/assets/images/favicon/favicon-16x16.png">
+        href="assets/images/favicon/favicon-16x16.png">
     <link rel='manifest' href='https://pcbuilder.net/manifest.json?v=1.0.4'>
     <meta name="msapplication-TileColor" content="#001119">
     <meta name="msapplication-TileImage"
-        content="https://static.pcbuilder.net/assets/images/favicon/ms-icon-144x144.png">
+        content="assets/images/favicon/ms-icon-144x144.png">
     <meta name="theme-color" content="#001119">
 
     <!-- dns Pre-Fetch -->
     <link rel="dns-prefetch" href="https://fonts.gstatic.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="preload" href="https://static.pcbuilder.net/assets/plugins/fontawesome/webfonts/fa-regular-400.woff2"
+    <link rel="preload" href="assets/plugins/fontawesome/webfonts/fa-regular-400.woff2"
         as="font" type="font/woff2" crossorigin>
-    <link rel="preload" href="https://static.pcbuilder.net/assets/plugins/fontawesome/webfonts/fa-brands-400.woff2"
+    <link rel="preload" href="assets/plugins/fontawesome/webfonts/fa-brands-400.woff2"
         as="font" type="font/woff2" crossorigin>
 
     <!-- Prefetch Images -->
-    <link rel="preload" as="image" href="https://static.pcbuilder.net/assets/images/logo-80.png" />
-    <link rel="preload" as="image" href="https://static.pcbuilder.net/assets/images/flags/us.svg" />
-    <link rel="preload" as="image" href="https://static.pcbuilder.net/assets/images/icons/cpu.svg" />
-    <link rel="preload" as="image" href="https://static.pcbuilder.net/assets/images/icons/cart.svg" />
-    <link rel="preload" href="https://static.pcbuilder.net/assets/fonts/montserrat/font.css" as="style">
+    <link rel="preload" as="image" href="assets/images/logo-80.png" />
+    <link rel="preload" as="image" href="assets/images/flags/us.svg" />
+    <link rel="preload" as="image" href="assets/images/icons/cpu.svg" />
+    <link rel="preload" as="image" href="assets/images/icons/cart.svg" />
+    <link rel="preload" href="assets/fonts/montserrat/font.css" as="style">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://static.pcbuilder.net/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <!-- Font Awesome CSS -->
-    <link rel="stylesheet" href="https://static.pcbuilder.net/assets/plugins/fontawesome/css/all.min.css">
+    <link rel="stylesheet" href="assets/plugins/fontawesome/css/all.min.css">
     <!-- Style CSS -->
-    <link rel="stylesheet" href="https://static.pcbuilder.net/assets/css/style.css">
-    <link rel="stylesheet" href="https://static.pcbuilder.net/assets/style.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/style.css">
     <!--Font Loading-->
-    <link rel="stylesheet" type="text/css" href="https://static.pcbuilder.net/assets/fonts/montserrat/font.css">
+    <link rel="stylesheet" type="text/css" href="assets/fonts/montserrat/font.css">
     <!-- <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap">-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
 </head>
 
@@ -117,18 +119,18 @@
         if ($page) {
             if ($page == 'home') {
                 include 'home.php';
-            } elseif ($page == '') {
-                include '.php';
-            } elseif ($page == '') {
-                include '.php';
-            } elseif ($page == '') {
-                include '.php';
-            } elseif ($page == '') {
-                include '.php';
-            } elseif ($page == '') {
-                include '.php';
-            } elseif ($page == '') {
-                include '.php';
+            } elseif ($page == 'login') {
+                include 'login.php';
+            } elseif ($page == 'register') {
+                include 'register.php';
+            } elseif ($page == 'forgot-password') {
+                include 'forgot-password.php';
+            } elseif ($page == 'list') {
+                include 'list.php';
+            } elseif ($page == 'builts') {
+                include 'builts.php';
+            } elseif ($page == 'laptop') {
+                include 'laptop.php';
             }
 
         } else {
@@ -140,15 +142,15 @@
     </div>
 </body>
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
-<script src="https://static.pcbuilder.net/assets/js/jquery-3.5.1.min.js"
+<script src="assets/js/jquery-3.5.1.min.js"
     type="e0851343d4cacafcae6327e0-text/javascript"></script>
-<script src="https://static.pcbuilder.net/assets/js/popper.min.js"
+<script src="assets/js/popper.min.js"
     type="e0851343d4cacafcae6327e0-text/javascript"></script>
-<script src="https://static.pcbuilder.net/assets/js/bootstrap.min.js"
+<script src="assets/js/bootstrap.min.js"
     type="e0851343d4cacafcae6327e0-text/javascript"></script>
-<script src="https://static.pcbuilder.net/assets/js/lazyload.min.js"
+<script src="assets/js/lazyload.min.js"
     type="e0851343d4cacafcae6327e0-text/javascript"></script>
-<script src="https://static.pcbuilder.net/assets/js/email-decode.min.js"
+<script src="assets/js/email-decode.min.js"
     type="e0851343d4cacafcae6327e0-text/javascript"></script>
 
 <!-- Google tag (gtag.js) -->
@@ -689,8 +691,8 @@ $(document).ready(function(){
         }]
         },
         {"@type":"ImageObject",
-            "@id":"https://static.pcbuilder.net/assets/images/og/visit-pc-builder.png",
-            "url":"https://static.pcbuilder.net/assets/images/og/visit-pc-builder.png",
+            "@id":"assets/images/og/visit-pc-builder.png",
+            "url":"assets/images/og/visit-pc-builder.png",
             "width":"1200",
             "height":"627",
             "caption":"PC Builder - Build Your Custom PC Online",
@@ -720,7 +722,7 @@ $(document).ready(function(){
                         ]
                     }
                 ],
-            "logo" : "https://static.pcbuilder.net/assets/images/logo-512.png",
+            "logo" : "assets/images/logo-512.png",
             "foundingDate": "2020-08-24",
             "sameAs" : [ 
                 "http://www.facebook.com/pcbuilder.net",
